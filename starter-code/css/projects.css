@@ -18,3 +18,40 @@
 	display: block;
 	margin: 0 auto;
 }
+
+@media screen and (max-width:1200px) {
+
+  .tile {
+    border:0px;
+    width: 45%;
+
+
+
+
+
+
+  }
+
+
+}
+
+
+
+@media screen and (max-width:800px) {
+
+  .tile {
+    display: inline-block;
+    width: 100%;
+    border: 0px;
+
+  }
+
+
+
+
+
+
+
+
+
+}
